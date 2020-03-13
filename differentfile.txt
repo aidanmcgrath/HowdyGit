@@ -1,0 +1,8 @@
+To commit a change:
+
+git add .
+git commit -m "Your message here"
+
+To checkout a branch:
+
+git checkout branch_name
